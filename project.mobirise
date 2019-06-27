@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Axis",
-    "currentPage": "bryle.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -736,23 +736,6 @@
                 "overlayColor": "#5b686b"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1553863791-akce1-1366x801.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "<b>VIDEO SLIDE</b>",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Slide mit Youtube-Video-Hintergrund und Farboverlay. Titel und Text sind linksbündig ausgerichtet.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VÍCE INFORMACÍ</a>"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/1553863796-akce3-1134x756.jpg",
                 "active": false,
                 "showButtons": true,
@@ -769,23 +752,6 @@
                 "text": "Wählen Sie aus einer großen Auswahl der jüngsten voreingestellten Blocks - Jumbotrons, Heldenbilder, Parallax-Scrolling, Videohintergründe und so weiter.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VÍCE INFORMACÍ</a>",
                 "overlayOpacity": "0.3"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/banner-1901x682.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "<b>FULL-SCREEN SLIDER</b>",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Wählen Sie aus einer großen Auswahl der jüngsten voreingestellten Blocks - Jumbotrons, Heldenbilder, Parallax-Scrolling, Videohintergründe und so weiter.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR MAC</a>"
               }
             ]
           }
