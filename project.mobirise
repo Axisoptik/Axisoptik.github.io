@@ -1,20 +1,20 @@
 {
   "settings": {
     "name": "Axis",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#232323",
-        "secondaryColor": "#ff3366",
+        "secondaryColor": "#ef514b",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Rubik",
-        "display1Size": 4.25,
+        "display1Size": "6",
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Rubik",
@@ -35,8 +35,8 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 11,
-    "versionPublish": "4.10.4",
+    "uniqCompNum": 5,
+    "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png"
@@ -717,11 +717,11 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/axis-optik-home-nhld-2-1920x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ddd-1912x862.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
@@ -746,7 +746,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b>30% SLEVA\r</b><div><b>NA DĚTSKÉ\r</b></div><div><b>BRÝLOVÉ OBRUBY</b></div>",
+                "title": "<b>30% SLEVA\n</b><div><b>NA DĚTSKÉ\n</b></div><div><b>BRÝLOVÉ OBRUBY</b></div>",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Wählen Sie aus einer großen Auswahl der jüngsten voreingestellten Blocks - Jumbotrons, Heldenbilder, Parallax-Scrolling, Videohintergründe und so weiter.",
@@ -1023,7 +1023,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Brýle",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -1713,7 +1713,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Naše Optiky",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2527,7 +2527,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Axis Domažlice Kostelní",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3239,7 +3239,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Měření zraku",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3653,7 +3653,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Akce",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4332,7 +4332,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Axis Březnice",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -5044,7 +5044,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Axis Domažlice Kozinova",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -5756,7 +5756,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Axis Domažlice Folmava",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -6468,7 +6468,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Kontakt",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -7153,7 +7153,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Skla",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -7915,7 +7915,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Sluneční brýle",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -8692,7 +8692,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Eshop",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -9106,7 +9106,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Brýlová skla za 50%",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
