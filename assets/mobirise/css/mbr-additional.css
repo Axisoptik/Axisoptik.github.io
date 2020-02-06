@@ -1333,11 +1333,11 @@ section.lazy-placeholder:after {
   justify-content: center;
   -webkit-align-items: flex-end;
   align-items: flex-end;
-  height: 25rem;
+  height: 27rem;
 }
 .cid-rPrZNJniEB .wrapper .mbr-overlay {
-  background: #232323;
-  opacity: 0.5;
+  background: #ffffff;
+  opacity: 0.3;
   border-top-right-radius: 25%;
   z-index: 1;
 }
@@ -2030,6 +2030,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rPEnQ5SrwE .mbr-section-title {
+  text-align: left;
+}
+.cid-rPEnQ5SrwE .mbr-step-title {
   text-align: left;
 }
 .cid-rLT3AOSrcv .navbar {
@@ -6450,7 +6453,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rOuB3vwtm5 {
-  padding-top: 45px;
+  padding-top: 60px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
