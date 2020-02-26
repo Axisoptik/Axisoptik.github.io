@@ -1365,10 +1365,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rPrZNJniEB .card-title {
-  text-align: left;
+  text-align: center;
 }
 .cid-rOoGhIS9SA {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -1477,7 +1477,7 @@ section.lazy-placeholder:after {
 }
 .cid-rOoGiTEFIV {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rOoGiTEFIV .img-wrap {
@@ -3774,7 +3774,7 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-rOvrzU8aak {
-  padding-top: 105px;
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
