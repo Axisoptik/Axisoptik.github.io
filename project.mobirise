@@ -362,7 +362,7 @@
               "text-align": "left"
             },
             "H2": {
-              "color": "#000000",
+              "color": "#ffffff",
               "text-align": "left"
             }
           },
@@ -387,7 +387,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/titul1-1899x666.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -423,6 +423,26 @@
                 "contentAlign": "left",
                 "text": "Ušetřete, více informací v obchodech",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SJEDNAT MĚŘENÍ</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page2.html#features17-4q\" data-toolbar=\"-mbrBtnMove\">VÍCE O AKCI</a>",
+                "overlayColor": "#c1c1c1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vizu1-1750x884.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "<b>JEDNO SKLO&nbsp;<br>ZDARMA</b>",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Ušetřete, více informací v obchodech",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SJEDNAT MĚŘENÍ</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page2.html#features17-4o\" data-toolbar=\"-mbrBtnMove\">VÍCE O AKCI</a>",
                 "overlayColor": "#c1c1c1"
               }
             ]
