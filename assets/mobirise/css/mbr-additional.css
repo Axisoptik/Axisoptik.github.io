@@ -1367,6 +1367,72 @@ section.lazy-placeholder:after {
 .cid-rPrZNJniEB .card-title {
   text-align: center;
 }
+.cid-rRCxwSskpX .mbr-section-title div {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rRCxwSskpX .mbr-text,
+.cid-rRCxwSskpX .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rRCxwSskpX .card1,
+.cid-rRCxwSskpX .card2 {
+  background-size: cover;
+  background-position: center;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  padding-top: 150px;
+  padding-bottom: 60px;
+}
+.cid-rRCxwSskpX .card1 {
+  background-image: url("../../../assets/images/dio-800x600-960x960-2-958x590.jpg");
+}
+.cid-rRCxwSskpX .card2 {
+  background-image: url("../../../assets/images/cubista-showcard-7-1823x2219-2-1548x927.jpg");
+}
+.cid-rRCxwSskpX h1,
+.cid-rRCxwSskpX p,
+.cid-rRCxwSskpX a {
+  position: relative;
+  z-index: 99;
+}
+@media (max-width: 576px) {
+  .cid-rRCxwSskpX .card1,
+  .cid-rRCxwSskpX .card2 {
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+}
+.cid-rRCxwSskpX p {
+  line-height: 1.6;
+}
+.cid-rOoGnFnhZg {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background: #ffffff;
+}
+.cid-rOoGnFnhZg img {
+  width: 120px;
+  margin: auto;
+}
+.cid-rOoGnFnhZg .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 1;
+  margin-bottom: 1rem;
+}
+.cid-rOoGnFnhZg .card:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+@media (min-width: 992px) {
+  .cid-rOoGnFnhZg .col-lg-x {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
 .cid-rOoGhIS9SA {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1544,32 +1610,6 @@ section.lazy-placeholder:after {
 .cid-rOoGiTEFIV .mbr-text,
 .cid-rOoGiTEFIV .mbr-section-btn {
   color: #232323;
-}
-.cid-rOoGnFnhZg {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background: #ffffff;
-}
-.cid-rOoGnFnhZg img {
-  width: 120px;
-  margin: auto;
-}
-.cid-rOoGnFnhZg .card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 1;
-  margin-bottom: 1rem;
-}
-.cid-rOoGnFnhZg .card:hover {
-  opacity: 0.8;
-  cursor: pointer;
-}
-@media (min-width: 992px) {
-  .cid-rOoGnFnhZg .col-lg-x {
-    flex: 0 0 20%;
-    max-width: 20%;
-  }
 }
 .cid-rRCiEqPAie {
   padding-top: 30px;
@@ -3844,7 +3884,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rPD68Hrx0f {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -6382,7 +6422,7 @@ section.lazy-placeholder:after {
 .cid-rOtYxkRZBR {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #b2ccd2;
+  background-color: #efefef;
 }
 .cid-rOtYxkRZBR p {
   color: #767676;
@@ -7151,57 +7191,71 @@ section.lazy-placeholder:after {
 .cid-rPDY2enTpZ .underline {
   text-align: left;
 }
-.cid-rPE80M09uH {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-rRCwSIa5Qy {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background: #ffffff;
 }
-.cid-rPE80M09uH .underline .line {
-  width: 2rem;
-  height: 1px;
-  background: #767676;
-  display: inline-block;
+.cid-rRCwSIa5Qy img {
+  width: 120px;
+  margin: auto;
 }
-.cid-rPE80M09uH .wrapper {
-  position: relative;
-  padding: 2rem;
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-align-items: flex-end;
-  align-items: flex-end;
-  height: 18rem;
+.cid-rRCwSIa5Qy .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 1;
+  margin-bottom: 1rem;
 }
-.cid-rPE80M09uH .wrapper .mbr-overlay {
-  background: #232323;
-  opacity: 0.5;
-  border-top-right-radius: 25%;
-  z-index: 1;
+.cid-rRCwSIa5Qy .card:hover {
+  opacity: 0.8;
+  cursor: pointer;
 }
-.cid-rPE80M09uH .wrapper img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
-}
-.cid-rPE80M09uH .wrapper .content-block {
-  position: relative;
-  width: 100%;
-  z-index: 1;
-}
-.cid-rPE80M09uH .popup-btn .mbr-overlay {
-  border-top-right-radius: 0 !important;
-}
-@media (max-width: 991px) {
-  .cid-rPE80M09uH .first-row-card {
-    padding-bottom: 2rem;
+@media (min-width: 992px) {
+  .cid-rRCwSIa5Qy .col-lg-x {
+    flex: 0 0 20%;
+    max-width: 20%;
   }
 }
-.cid-rPE80M09uH .card-title {
+.cid-rRCvIh9ivj .mbr-section-title div {
   text-align: center;
+  color: #ffffff;
+}
+.cid-rRCvIh9ivj .mbr-text,
+.cid-rRCvIh9ivj .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rRCvIh9ivj .card1,
+.cid-rRCvIh9ivj .card2 {
+  background-size: cover;
+  background-position: center;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  padding-top: 150px;
+  padding-bottom: 60px;
+}
+.cid-rRCvIh9ivj .card1 {
+  background-image: url("../../../assets/images/dio-800x600-960x960-2-958x590.jpg");
+}
+.cid-rRCvIh9ivj .card2 {
+  background-image: url("../../../assets/images/cubista-showcard-7-1823x2219-2-1548x927.jpg");
+}
+.cid-rRCvIh9ivj h1,
+.cid-rRCvIh9ivj p,
+.cid-rRCvIh9ivj a {
+  position: relative;
+  z-index: 99;
+}
+@media (max-width: 576px) {
+  .cid-rRCvIh9ivj .card1,
+  .cid-rRCvIh9ivj .card2 {
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+}
+.cid-rRCvIh9ivj p {
+  line-height: 1.6;
 }
 .cid-rPDY2d8o7I .navbar {
   background: #ffffff;
