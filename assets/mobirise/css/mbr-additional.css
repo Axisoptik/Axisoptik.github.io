@@ -1693,79 +1693,23 @@ section.lazy-placeholder:after {
 .cid-rM54a7obVx .copyright .mbr-text {
   color: #333333;
 }
-.cid-rOvuk5Tymv {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #efefef;
+.cid-rSaPlRsjIc {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/meeni-1900x707.jpg");
 }
-.cid-rOvuk5Tymv p {
-  color: #767676;
-}
-.cid-rOvuk5Tymv .img-wrap {
-  width: 100% !important;
-  height: 100% !important;
-}
-.cid-rOvuk5Tymv .main {
-  -webkit-flex-direction: row-reverse;
-  flex-direction: row-reverse;
-}
-.cid-rOvuk5Tymv .row-element,
-.cid-rOvuk5Tymv .image-element {
-  padding: 0;
-}
-.cid-rOvuk5Tymv .image-element {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-rOvuk5Tymv .image-element img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
-}
-.cid-rOvuk5Tymv .underline {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-.cid-rOvuk5Tymv .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #ef520e, #ff3366);
-  display: inline-block;
-}
-@media (min-width: 1500px) {
-  .cid-rOvuk5Tymv .text-content {
-    padding: 5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 1499px) {
-  .cid-rOvuk5Tymv .text-content {
-    padding: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rOvuk5Tymv .text-content {
-    padding: 2rem 1rem;
-  }
-  .cid-rOvuk5Tymv .underline .line {
-    height: 2px;
-  }
-  .cid-rOvuk5Tymv .mbr-title,
-  .cid-rOvuk5Tymv .underline,
-  .cid-rOvuk5Tymv .mbr-text,
-  .cid-rOvuk5Tymv .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-.cid-rOvuk5Tymv .mbr-text,
-.cid-rOvuk5Tymv .mbr-section-btn {
-  color: #232323;
+.cid-rSaPlRsjIc .mbr-text,
+.cid-rSaPlRsjIc .mbr-section-btn {
   text-align: left;
+  color: #000000;
 }
-.cid-rOvuk5Tymv .mbr-title,
-.cid-rOvuk5Tymv .underline {
+.cid-rSaPlRsjIc H3 {
   text-align: left;
+  color: #000000;
+}
+.cid-rSaPlRsjIc H1 {
+  text-align: left;
+  color: #000000;
 }
 .cid-rPEnQ5SrwE {
   padding-top: 90px;
