@@ -21336,53 +21336,53 @@ section.lazy-placeholder:after {
     margin-bottom: 3rem;
   }
 }
-.cid-rSmLTTBiTW {
+.cid-rSn21wWIXW {
   padding-top: 15px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-rSmLTTBiTW .mbr-text {
+.cid-rSn21wWIXW .mbr-text {
   color: #767676;
 }
-.cid-rSmLTTBiTW .card-subtitle {
+.cid-rSn21wWIXW .card-subtitle {
   margin: 0;
 }
-.cid-rSmLTTBiTW .link {
+.cid-rSn21wWIXW .link {
   margin: 0;
 }
-.cid-rSmLTTBiTW .link a {
+.cid-rSn21wWIXW .link a {
   position: relative;
   letter-spacing: 2px;
 }
-.cid-rSmLTTBiTW .icon-box {
+.cid-rSn21wWIXW .icon-box {
   margin-bottom: 1.2rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.173);
 }
-.cid-rSmLTTBiTW .item {
+.cid-rSn21wWIXW .item {
   display: inline-flex;
   align-items: center;
   padding: 0 0.6rem;
 }
-.cid-rSmLTTBiTW .mbr-iconfont {
+.cid-rSn21wWIXW .mbr-iconfont {
   color: #000000 !important;
   font-size: 1rem!important;
   padding-right: 0.5rem;
   padding-bottom: 0.1rem;
 }
-.cid-rSmLTTBiTW .date {
+.cid-rSn21wWIXW .date {
   margin: 0;
 }
-.cid-rSmLTTBiTW img {
+.cid-rSn21wWIXW img {
   transition: all 0.3s;
   object-fit: cover;
   height: 100%;
 }
-.cid-rSmLTTBiTW .card-img {
+.cid-rSn21wWIXW .card-img {
   overflow: hidden;
   position: relative;
   height: 300px;
 }
-.cid-rSmLTTBiTW .card-img:before {
+.cid-rSn21wWIXW .card-img:before {
   content: '';
   position: absolute;
   width: 100%;
@@ -21395,26 +21395,26 @@ section.lazy-placeholder:after {
   pointer-events: none;
   z-index: 2;
 }
-.cid-rSmLTTBiTW .card-img:hover:before {
+.cid-rSn21wWIXW .card-img:hover:before {
   opacity: 0.4;
 }
-.cid-rSmLTTBiTW .card-img:hover img {
+.cid-rSn21wWIXW .card-img:hover img {
   transform: scale(1.05);
 }
 @media (max-width: 767px) {
-  .cid-rSmLTTBiTW .icon-box {
+  .cid-rSn21wWIXW .icon-box {
     flex-direction: column;
   }
-  .cid-rSmLTTBiTW .item {
+  .cid-rSn21wWIXW .item {
     padding-right: 0rem;
     padding-bottom: 0.3rem;
   }
 }
-.cid-rSmLTTBiTW .row {
+.cid-rSn21wWIXW .row {
   justify-content: center;
 }
 @media (max-width: 992px) {
-  .cid-rSmLTTBiTW .card {
+  .cid-rSn21wWIXW .card {
     margin-bottom: 3rem;
   }
 }
