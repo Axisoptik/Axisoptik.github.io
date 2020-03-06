@@ -8418,74 +8418,21 @@ section.lazy-placeholder:after {
 .cid-rLT3AOSrcv .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rPDRm0VIZF {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #efefef;
+.cid-rSsaAgKkKp {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/kariera-1900x834.jpg");
 }
-.cid-rPDRm0VIZF p {
+.cid-rSsaAgKkKp P {
   color: #767676;
 }
-.cid-rPDRm0VIZF .img-wrap {
-  width: 100% !important;
-  height: 100% !important;
-}
-.cid-rPDRm0VIZF .row-element,
-.cid-rPDRm0VIZF .image-element {
-  padding: 0;
-}
-.cid-rPDRm0VIZF .image-element {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-rPDRm0VIZF .image-element img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
-}
-.cid-rPDRm0VIZF .underline {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-.cid-rPDRm0VIZF .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #ef520e, #ff3366);
-  display: inline-block;
-}
-@media (min-width: 1500px) {
-  .cid-rPDRm0VIZF .text-content {
-    padding: 5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 1499px) {
-  .cid-rPDRm0VIZF .text-content {
-    padding: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rPDRm0VIZF .text-content {
-    padding: 2rem 1rem;
-  }
-  .cid-rPDRm0VIZF .underline .line {
-    height: 2px;
-  }
-  .cid-rPDRm0VIZF .mbr-title,
-  .cid-rPDRm0VIZF .underline,
-  .cid-rPDRm0VIZF .mbr-text,
-  .cid-rPDRm0VIZF .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-.cid-rPDRm0VIZF .mbr-text,
-.cid-rPDRm0VIZF .mbr-section-btn {
-  color: #232323;
+.cid-rSsaAgKkKp H1 {
+  color: #ffffff;
   text-align: left;
 }
-.cid-rPDRm0VIZF .mbr-title,
-.cid-rPDRm0VIZF .underline {
+.cid-rSsaAgKkKp .mbr-text,
+.cid-rSsaAgKkKp .mbr-section-btn {
+  color: #ffffff;
   text-align: left;
 }
 .cid-rPDV7iNhtl {
