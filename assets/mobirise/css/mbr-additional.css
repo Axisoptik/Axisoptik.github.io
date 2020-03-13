@@ -26805,110 +26805,17 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
-.cid-rT7oxmzZNq {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-rT7oxmzZNq .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rT7oxmzZNq .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rT7oxmzZNq .mbr-section-title {
-  color: #000000;
-}
-.cid-rT7oxmzZNq .mbr-text,
-.cid-rT7oxmzZNq .mbr-section-btn {
-  color: #000000;
-}
-.cid-rT7p0JYuSA {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-rT7BqPmMjU {
+  padding-top: 75px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rT7p0JYuSA .mbr-text {
-  line-height: 1.5;
+.cid-rT7BqPmMjU H1 {
   color: #333333;
 }
-.cid-rT7p0JYuSA .mbr-section-title {
-  text-align: left;
-  color: #000000;
-}
-.cid-rT7p0JYuSA img {
-  width: 100%;
-  padding-bottom: 1.5rem;
-}
-.cid-rT7p0JYuSA .mbr-image-title {
-  text-align: center;
-  color: #656565;
-}
-.cid-rT7woLrZbD {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-rT7woLrZbD .row-element,
-.cid-rT7woLrZbD .image-element {
-  padding: 0;
-}
-.cid-rT7woLrZbD .image-element {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-rT7woLrZbD .image-element img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
-}
-.cid-rT7woLrZbD .underline {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-.cid-rT7woLrZbD .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #ef520e, #ff3366);
-  display: inline-block;
-}
-@media (min-width: 1500px) {
-  .cid-rT7woLrZbD .text-content {
-    padding: 5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 1499px) {
-  .cid-rT7woLrZbD .text-content {
-    padding: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rT7woLrZbD .text-content {
-    padding: 2rem 1rem;
-  }
-  .cid-rT7woLrZbD .underline .line {
-    height: 2px;
-  }
-  .cid-rT7woLrZbD .mbr-title,
-  .cid-rT7woLrZbD .underline,
-  .cid-rT7woLrZbD .mbr-text,
-  .cid-rT7woLrZbD .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-.cid-rT7woLrZbD .mbr-title,
-.cid-rT7woLrZbD .underline {
-  color: #232323;
-}
-.cid-rT7woLrZbD .mbr-text,
-.cid-rT7woLrZbD .mbr-section-btn {
-  color: #232323;
+.cid-rT7BqPmMjU .mbr-text,
+.cid-rT7BqPmMjU .mbr-section-btn {
+  color: #333333;
 }
 .cid-rT7oxorvX3 .navbar {
   background: #ffffff;
