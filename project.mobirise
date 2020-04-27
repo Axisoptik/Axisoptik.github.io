@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Axis-clone",
-    "currentPage": "page31.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,10 +62,11 @@
       }
     ],
     "uniqCompNum": 646,
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -356,10 +357,10 @@
               "width": "(@sliderWSize * 1%)"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_name": "slider2",
@@ -401,7 +402,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SJEDNAT MĚŘENÍ</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; VÍCE O AKCI &nbsp; &nbsp;</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/meeni-1900x889.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meeni-1900x889.jpeg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -417,7 +418,7 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "Ušetřete, více informací v obchodech",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SJEDNAT MĚŘENÍ</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; VÍCE O AKCI &nbsp; &nbsp;</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SJEDNAT MĚŘENÍ</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; VÍCE O AKCI &nbsp; &nbsp;</a>"
               }
             ]
           }
