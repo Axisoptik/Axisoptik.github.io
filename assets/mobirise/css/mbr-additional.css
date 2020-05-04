@@ -28845,6 +28845,17 @@ section.lazy-placeholder:after {
 .cid-rY0XXNTrmh .mbr-section-btn {
   color: #333333;
 }
+.cid-rY25qYhjlf {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-color: #efefef;
+}
+.cid-rY25qYhjlf .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rY25qYhjlf .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rY0XXOjFoT .navbar {
   background: #ffffff;
   transition: none;
