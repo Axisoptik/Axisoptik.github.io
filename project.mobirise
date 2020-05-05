@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Axis-clone",
-    "currentPage": "page31.html",
+    "name": "Axis Optik",
+    "currentPage": "page36.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -64,9 +64,15 @@
     "uniqCompNum": 668,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -2177,7 +2183,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Akce 50% na skla pro řidiče a blue control",
-        "order": 2
+        "order": 6
       },
       "components": [
         {
@@ -29888,7 +29894,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Akce Měření zraku zdarma",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -30630,7 +30636,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Akce Nová kolekce sun",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -35359,7 +35365,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Akce Jedno sklo zdarma",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -36074,7 +36080,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Akce Polaroid za 899 Kč",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -36751,7 +36757,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Akce příspěvek Axis",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
